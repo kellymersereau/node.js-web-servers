@@ -1,0 +1,22 @@
+{
+  "name": "node-web-servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellymersereau/node.js-web-servers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellymersereau/node.js-web-servers/issues"
+  },
+  "homepage": "https://github.com/kellymersereau/node.js-web-servers#readme",
+  "dependencies": {
+    "twitter": "^1.2.5"
+  }
+}
